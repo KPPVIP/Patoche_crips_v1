@@ -1,0 +1,11 @@
+Hi ! 
+
+For Altv is easy.
+
+On my mapping folder ( exemple " patoche_gang_crips ) : 
+Step 1 : delete "_resource" and replace with "resource" & " stream" of my [ATLV] folder
+step 2 : add it on your server.cfg
+
+It's finish :) 
+
+( I have test it on my altv server )
